@@ -28,7 +28,7 @@
 #include "env_validate.h"
 
 #define BOARD_INFO_NAME       "Einsy Rambo"
-#define DEFAULT_MACHINE_NAME  "Prusa MK3"
+#define DEFAULT_MACHINE_NAME  "Custom Machine"
 
 //#define MK3_FAN_PINS
 
